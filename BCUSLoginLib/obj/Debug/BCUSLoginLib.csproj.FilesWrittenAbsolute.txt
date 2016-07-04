@@ -1,0 +1,9 @@
+/Users/keithjacobs/projects/BCUSLoginLib/BCUSLoginLib/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/keithjacobs/projects/BCUSLoginLib/BCUSLoginLib/bin/Debug/BCUSLoginLib.dll.mdb
+/Users/keithjacobs/projects/BCUSLoginLib/BCUSLoginLib/bin/Debug/BCUSLoginLib.dll
+/Users/keithjacobs/projects/BCUSLoginLib/BCUSLoginLib/obj/Debug/BCUSLoginLib.dll
+/Users/keithjacobs/projects/BCUSLoginLib/BCUSLoginLib/obj/Debug/BCUSLoginLib.dll.mdb
+/Users/keithjacobs/projects/BCUSLoginLib/BCUSLoginLib/bin/Debug/ModernHttpClient.dll
+/Users/keithjacobs/projects/BCUSLoginLib/BCUSLoginLib/bin/Debug/System.Net.Http.dll
+/Users/keithjacobs/projects/BCUSLoginLib/BCUSLoginLib/bin/Debug/System.Net.Http.Primitives.dll
+/Users/keithjacobs/projects/BCUSLoginLib/BCUSLoginLib/bin/Debug/System.Net.Http.Extensions.dll
